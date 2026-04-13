@@ -12,4 +12,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/feyyu120/Competitive-Programming-leetcode-/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/feyyu120/Competitive-Programming-leetcode-/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/feyyu120/Competitive-Programming-leetcode-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
